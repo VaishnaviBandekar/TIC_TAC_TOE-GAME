@@ -40,6 +40,16 @@ check_winner(player): Checks if the specified player has won the game.
 minimax(depth, is_maximizing): The Minimax algorithm implementation for AI decision-making.
 get_best_move(): Determines the best move for the AI.
 
+## Screenshots
+
+
+### AI WINS
+![AI Wins](Screenshots/O_WIN_RESULT.png)
+
+### GAME TIE
+![Game Tie](screenshots/TIE_RESULT.png)
+
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
